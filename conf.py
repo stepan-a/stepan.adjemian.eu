@@ -136,7 +136,7 @@ NAVIGATION_LINKS = {
         ("/archive.html", "Archive"),
         ("/research/", "Recherche"),
         ((
-          ('/teaching', 'Enseignement'),
+          ('/teaching', '-->'),
           ('/teaching/economic-calculus', 'Calcul économique'),
           ('/teaching/growth', 'Croissance'),
           ('/teaching/time-series', 'Séries temporelles')), 'Enseignement'))
