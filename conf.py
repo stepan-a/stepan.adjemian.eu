@@ -135,11 +135,11 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/archive.html", "Archive"),
         ("/research/", "Recherche"),
-        ((('/teaching/economic-calculus', 'Calcul économique'),
+        ((
+          ('/teaching', 'Enseignement'),
+          ('/teaching/economic-calculus', 'Calcul économique'),
           ('/teaching/growth', 'Croissance'),
           ('/teaching/time-series', 'Séries temporelles')), 'Enseignement'))
-        #("/categories/", "Tags"),
-        #("/rss.xml", "RSS feed"),
 }
 
 # Name of the theme to use.
