@@ -1,0 +1,6 @@
+#!/bin/bash
+
+if [ -e "compile-$1" ]; then
+   make -C $1 all
+   rm compile-$1
+fi

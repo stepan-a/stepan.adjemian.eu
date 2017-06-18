@@ -1,0 +1,26 @@
+#!/bin/bash
+
+git ls-remote git@github.com:stepan-a/$1.git | head -1 | sed "s/HEAD//" > $1-remote-last-commit-sha
+SHA_REMOTE=$(cat $1-remote-last-commit-sha)
+
+if [ ! -d "$1" ]
+then
+    wget https://github.com/stepan-a/$1/archive/master.zip
+    unzip master.zip
+    rm master.zip
+    mv $1-master $1
+    git ls-remote git@github.com:stepan-a/$1.git | head -1 | sed "s/HEAD//" > $1-local-last-commit-sha
+    echo "Fetched $1!"
+    touch "compile-$1"
+    exit
+fi
+
+SHA_LOCAL=$(cat $1-local-last-commit-sha)
+
+if [ "$SHA_LOCAL" != "$SHA_REMOTE" ]
+then
+    echo "university/$1 folder has to be updated!"
+    git archive --format=tar --prefix=$1/ --remote=git@github.com:stepan-a/$1.git master | tar -xf -
+    git ls-remote git@github.com:stepan-a/$1.git | head -1 | sed "s/HEAD//" > $1-local-last-commit-sha
+    touch "compile-$1"
+fi

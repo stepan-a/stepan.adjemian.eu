@@ -1,0 +1,14 @@
+cache/*
+output/*
+__pycache__/*
+*.pdf
+*.html
+.doit.db*
+files/university/*-sha
+files/university/growth/*
+files/university/economic-calculus/*
+files/university/time-series/*
+files/dynare/*
+files/papers/*
+files/thesis/*
+*~
