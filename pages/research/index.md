@@ -13,9 +13,11 @@
 # Personal git repositories
 
 My personal [Git](http://git-scm.com/) repositories are available here:
+
  + [sources.adjemian.eu](https://sources.adjemian.eu)
  + [github.com](https://github.com/stepan-a)
  + [gitlab.com](https://gitlab.com/stepan-a)
+
 A lot of my work (slides, codes, music, this website, ...) is versioned under Git. For instance, if you have [Git](http://git-scm.com/) installed on your computer, you can obtain the sources of the slides on perfect foresight models (pdf provided below) as follows:
 
 	:::bash
@@ -50,7 +52,7 @@ The  mod and steadystate  files are provided without any documentation, but  are
 
 # Papers
  - *Stochastic Extended Path Simulation Method*, joint with Michel Juillard [{PDF Slides}](http://www.dynare.org/stepan/slides/sep.pdf)
-- *Accuracy of the Extended Path Simulation Method in a New Keynesian Model with Zero Lower Bound on the Nominal Interest Rate*, joint with Michel Juillard. [{PDF}](../papers/ZLB-ExtendedPath-Accuracy.pdf).
+ - *Accuracy of the Extended Path Simulation Method in a New Keynesian Model with Zero Lower Bound on the Nominal Interest Rate*, joint with Michel Juillard. [{PDF}](../papers/ZLB-ExtendedPath-Accuracy.pdf).
  - *Évaluation de la politique monétaire dans un modèle DSGE pour la zone euro*, joint with Antoine Devulder. [{PDF}](../papers/rfe-2011-a.pdf) and [{tar.bz2 archive}](../papers/rfe-2011.tar.bz2) containing the files needed to get the results reported in the paper.
  - *Optimal monetary policy and the transmission of oil-supply shocks to the euro area under rational expectations*, joint with Matthieu Darracq Pariès. [ECB Working Paper version](http://www.ecb.eu/pub/pdf/scpwps/ecbwp962.pdf), 2008.
  - *Towards a  monetary policy evaluation  framework*, joint with Stéphane Moyen and Matthieu Darracq Pariès. [ECB Working Paper version](http://www.ecb.eu/pub/pdf/scpwps/ecbwp942.pdf), 2008.
