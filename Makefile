@@ -5,4 +5,5 @@ build: update
 	nikola build
 
 update:
+	git submodule update --init --recursive
 	make -C files/university

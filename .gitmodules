@@ -1,0 +1,9 @@
+[submodule "files/university/time-series"]
+	path = files/university/time-series
+	url = git@github.com:stepan-a/time-series
+[submodule "files/university/economic-calculus"]
+	path = files/university/economic-calculus
+	url = git@github.com:stepan-a/economic-calculus
+[submodule "files/university/growth"]
+	path = files/university/growth
+	url = git@github.com:stepan-a/growth
