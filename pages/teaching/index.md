@@ -14,7 +14,7 @@ Vous pouvez me contacter à l'adresse : [stephane.adjemian@univ-lemans.fr](mail
 
 ---
 <div markdown="1" style="color:#515151">**20 juin 2017.** L'examen de seconde session pour le cours de Croissance aura lieu le lundi 26 juin à 08h30. La durée est d'une heure, les calculatrices ne sont pas autorisées.</div>
-<div markdown="1" style="color:#515151">**20 juin 2017.** L'examen de seconde session pour le cours de Séries temporelles aura lieu le mardi 27 juin à 16h30. La durée est d'une heure et trente minutes, les calculatrices ne sont pas autorisées.</div>
+<div markdown="1" style="color:#515151">**20 juin 2017.** L'examen de seconde session pour le cours de Séries temporelles aura lieu le mardi 27 juin à 16h30. La durée est d'une heure et trente minutes, les calculatrices ne sont pas autorisées. La correction de l'examen de première session est en ligne [ici](./time-series)</div>
 ---
 
 <br>

@@ -13,7 +13,8 @@
  - *Time Series Analysis*, James, D. Hamilton, Princeton University Press, 1994.
  - *Séries temporelles et modèles dynamiques*,  Christian Gourieroux et Alain Monfort, Economica, 1995.
 
-
 # Partiels
- - 2012-2013
-   Le [sujet](http://perso.univ-lemans.fr/~sadjem/cours/series-temporelles/2012-2013/partiel.pdf) et sa [correction](http://perso.univ-lemans.fr/~sadjem/cours/series-temporelles/2012-2013/correction-partiel.pdf)
+ - 2017
+   Le [sujet](../../university/time-series/ds/partiel-05-2017.pdf) et des éléments de [correction](../../university/time-series/ds/correction-05-2017.pdf) 
+ - 2013
+   Le [sujet](../../university/time-series/ds/partiel-05-2013.pdf) et sa [correction](../../university/time-series/ds/correction-partiel-05-2013.pdf)
