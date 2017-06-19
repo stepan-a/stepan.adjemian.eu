@@ -28,8 +28,8 @@
 <center markdown="1"> Developer in the [Dynare](http://www.dynare.org) Team.</center>
 <center markdown="1"> stepan AT dynare DOT org</center>
 <center markdown="1"> CEPREMAP</center>
-<center markdown="1"> 142 rue Chevaleret</center>
-<center markdown="1"> 75013 Paris</center>
+<center markdown="1"> Ecole normale supérieure (ENS)</center>
+<center markdown="1"> 48 boulevard Jourdan, 75014 Paris</center>
 
 <br>
 <br>
