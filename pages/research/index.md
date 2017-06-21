@@ -51,7 +51,7 @@ The  mod and steadystate  files are provided without any documentation, but  are
 <br>
 
 # Papers
- - *Stochastic Extended Path Simulation Method*, joint with Michel Juillard [{PDF Slides}](http://www.dynare.org/stepan/slides/sep.pdf)
+ - *Stochastic Extended Path Simulation Method*, joint with Michel Juillard [{PDF Slides}](../dynare/slides/sep.pdf)
  - *Accuracy of the Extended Path Simulation Method in a New Keynesian Model with Zero Lower Bound on the Nominal Interest Rate*, joint with Michel Juillard. [{PDF}](../papers/ZLB-ExtendedPath-Accuracy.pdf).
  - *Évaluation de la politique monétaire dans un modèle DSGE pour la zone euro*, joint with Antoine Devulder. [{PDF}](../papers/rfe-2011-a.pdf) and [{tar.bz2 archive}](../papers/rfe-2011.tar.bz2) containing the files needed to get the results reported in the paper.
  - *Optimal monetary policy and the transmission of oil-supply shocks to the euro area under rational expectations*, joint with Matthieu Darracq Pariès. [ECB Working Paper version](http://www.ecb.eu/pub/pdf/scpwps/ecbwp962.pdf), 2008.
