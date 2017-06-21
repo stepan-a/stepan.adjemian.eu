@@ -46,7 +46,7 @@ The  mod and steadystate  files are provided without any documentation, but  are
 ## Documentation
 
 ### Priors in Dynare
-   [{PDF}](../dynare/text/DynareDistributions.pdf) This unfinished note describes the prior densities considered in Dynare.
+   [{PDF}](https://github.com/stepan-a/dynare-priors/releases/download/0.1.0/note.pdf) This unfinished note describes the prior densities considered in Dynare. The sources are available [here](https://github.com/stepan-a/dynare-priors/releases/latest).
 
 <br>
 
