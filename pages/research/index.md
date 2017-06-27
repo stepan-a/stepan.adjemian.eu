@@ -38,6 +38,8 @@ A lot of my work (slides, codes, music, this website, ...) is versioned under Gi
 
 ### Dynare steady state toolbox.
 
+ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.819975.svg)](https://doi.org/10.5281/zenodo.819975)
+
 Provides a set of matlab routines that translate a matlab script
 computing the steady state of a DSGE model into something readable by
 dynare (i.e. conforming to what is expected in a `*_steadystate2.m`
