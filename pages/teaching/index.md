@@ -13,8 +13,8 @@
 Vous pouvez me contacter à l'adresse : [stephane.adjemian@univ-lemans.fr](mailto:stephane.adjemian@univ-lemans.fr). Je ne reçois pas (et *a fortiori* je ne lis pas) les mails sans sujet. De préférence contactez-moi en utilisant votre e-mail de l'université (qui doit ressembler à marcel.dupont.Etu@univ-lemans.fr), autrement j'aurai plus de mal à vous répondre (si je vous réponds). Je suis généralement sur site en début de semaine ; si vous désirez me voir consultez l'emploi du temps en ligne et envoyez-moi un [mail](mailto:stephane.adjemian@univ-lemans.fr). En l'absence de réponse de ma part, n'hésitez pas à me renvoyer un e-mail.
 
 ---
-<div markdown="1" style="color:#515151">**26 juin 2017.** Des éléments de correction pour l'examen de seconde session de Croissance est en ligne [ici](./growth)</div>
-<div markdown="1" style="color:#515151">**20 juin 2017.** L'examen de seconde session pour le cours de Séries temporelles aura lieu le mardi 27 juin à 16h30. La durée est d'une heure et trente minutes, les calculatrices ne sont pas autorisées. La correction de l'examen de première session est en ligne [ici](./time-series)</div>
+<div markdown="1" style="color:#515151">**26 juin 2017.** Des éléments de correction pour l'examen de seconde session de Croissance sont en ligne [ici](./growth)</div>
+<div markdown="1" style="color:#515151">**2 juillet 2017.** Des éléments de correction pour l'examen de seconde session de Séries temporelles sont en ligne [ici](./time-series)</div>
 ---
 
 <br>
