@@ -14,6 +14,8 @@
  - *Séries temporelles et modèles dynamiques*,  Christian Gourieroux et Alain Monfort, Economica, 1995.
 
 # Partiels
+ - 2017 (2nd session)
+   Le [sujet](../../university/time-series/ds/rattrapage-2017.pdf) et des éléments de [correction](../../university/time-series/ds/correction-rattrapage-2017.pdf) 
  - 2017
    Le [sujet](../../university/time-series/ds/partiel-05-2017.pdf) et des éléments de [correction](../../university/time-series/ds/correction-05-2017.pdf) 
  - 2013
