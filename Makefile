@@ -1,5 +1,5 @@
 push: build
-	rsync -avz output/ odysseus:/home/stepan/www/stepan.adjemian.eu
+	rsync -avz output/ odysseus.adjemian.eu:/home/www/stepan.adjemian.eu
 
 build: update
 	nikola build
