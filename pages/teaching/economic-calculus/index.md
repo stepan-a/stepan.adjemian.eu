@@ -37,6 +37,12 @@
 
 <br>	
 
+
+## Examen 2017
+ - Sujet 1ère session [pdf](../../university/economic-calculus/exam/2017-a/economic-calculus.pdf), [tex](../../university/economic-calculus/exam/2017-a/economic-calculus.tex).
+ - Correction 1ère session [pdf](../../university/economic-calculus/exam/2017-a/economic-calculus-correction.pdf), [tex](../../university/economic-calculus/exam/2017-a/economic-calculus-correction.tex).
+
+
 ## Examen 2016
  - Sujet 1ère session [pdf](../../university/economic-calculus/exam/2016-a/economic-calculus.pdf), [tex](../../university/economic-calculus/exam/2016-a/economic-calculus.tex).
  - Correction 1ère session [pdf](../../university/economic-calculus/exam/2016-a/economic-calculus-correction.pdf), [tex](../../university/economic-calculus/exam/2016-a/economic-calculus-correction.tex).
